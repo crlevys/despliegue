@@ -1,6 +1,8 @@
 class uno{
 	string carro;
+	int x:
 	public uno(){
-		return 0;
+		return x;
 	}
+	void funcion_uno(){}
 }
