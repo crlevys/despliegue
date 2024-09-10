@@ -10,4 +10,5 @@ class uno{
 	void funcion_dos(){
 		x=x+2;
 	}
+	void nuevo(){}
 }
