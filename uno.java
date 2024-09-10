@@ -11,4 +11,5 @@ class uno{
 		x=x+2;
 	}
 	void nuevo(){}
+	void nuevo2(){}
 }
